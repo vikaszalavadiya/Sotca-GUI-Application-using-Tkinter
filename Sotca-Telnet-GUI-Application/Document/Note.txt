@@ -1,0 +1,29 @@
+
+-------------------------------  Run Error  ---------------------------------
+if you are getting error in code or auto-py-to-exe command.
+if you are getting pycharm in virtual environment error or permission denied error.
+
+you can create new project. Copy app.py, logo, img. only. dont copy other folder.
+
+install all library.
+
+-----------------  Required Library  --------------------
+install pip:
+first check installed. --> pip --version
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+dir
+
+-----------------------
+pip install pyserial
+pip install Pillow
+pip install pyinstaller
+pip freeze
+pip install auto-py-to-exe
+
+not need to install telnetlib library.
+------------------------
+if you generate exe. it's not work in output folder.
+it's work in project folder.
+

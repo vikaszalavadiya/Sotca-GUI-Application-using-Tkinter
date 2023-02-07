@@ -1,0 +1,6 @@
+
+# Use this for screen resolution problem solve#
+
+import ctypes
+ 
+ctypes.windll.shcore.SetProcessDpiAwareness(1)
