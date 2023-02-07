@@ -62,9 +62,9 @@ https://sourceforge.net/projects/nsis/
 ### Screenshots
 -----------------------
 
-![image](https://user-images.githubusercontent.com/47386222/217312944-ca7b2a7c-da45-4f20-9ad1-d1b8f1b14b97.png)
-![image](https://user-images.githubusercontent.com/47386222/217313771-97e294a7-bc22-4da9-b04e-14449353ab97.png)
+![image](https://user-images.githubusercontent.com/47386222/217330537-47bed963-1e37-461b-8625-f1ad6e4426b0.png)
+![image](https://user-images.githubusercontent.com/47386222/217330622-4098b194-841c-4568-8de6-5eab905169c3.png)
 
-![image](https://user-images.githubusercontent.com/47386222/217316612-0c310c39-bb31-4ecd-aa22-dc9d1f07bae2.png)
-![image](https://user-images.githubusercontent.com/47386222/217316225-ff4a7d08-e91e-4c0f-984f-b3d00c8ae7a1.png)
+![image](https://user-images.githubusercontent.com/47386222/217330696-b59c846f-bd2a-4107-ba98-1ba32df9b6dd.png)
+![image](https://user-images.githubusercontent.com/47386222/217330759-b8266a4e-0a8f-4565-95a3-f0fb09529c0e.png)
 
