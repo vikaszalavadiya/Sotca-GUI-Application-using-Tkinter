@@ -1,4 +1,4 @@
-# SOTCA-GUI-Application
+# Sotca GUI Application for converters (Tkinter)
 -------------------------
 
 We can monitor real time data of SOTCA conveter. alos we can control converter data remotly over serial and telnet. 
